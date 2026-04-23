@@ -87,4 +87,17 @@ En esta sección se presentan los User Journey Mapping, los cuales permiten visu
 
 ### **2.3.4. Empathy Mapping**
 
+Empathy Mapping es una herramienta que permite comprender de manera más profunda a los usuarios a partir de lo que piensan, sienten, dicen y hacen en su día a día. Este análisis se basa en los segmentos de distribuidores y empresas envasadoras de gas, con el objetivo de identificar sus preocupaciones, necesidades y motivaciones reales. De esta forma, se obtiene una visión más humana del usuario, lo que facilita diseñar una solución como Regula que responda mejor a sus problemas y mejore su experiencia en la gestión de sus operaciones.
+
+**Segmento 1: Empresas de gas**
+
+<div align="center">
+
+![empathy-mapping-1](../../report/assets/diagrams/Empathy%20Mapping%20Miguel%20Hordoñez.png)
+
+</div>
+
+**Segmento 2: Distribuidoras de gas**
+
+![empathy-mapping-1](../../report/assets/diagrams/Empathy%20Mapping%20Carlos%20Mendoza%20(1).png)
 
