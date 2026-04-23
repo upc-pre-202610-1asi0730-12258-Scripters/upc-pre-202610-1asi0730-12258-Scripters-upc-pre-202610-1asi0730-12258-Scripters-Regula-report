@@ -278,3 +278,75 @@ Esto facilita el acceso según el tipo de usuario.
     * Inventario
     * Distribución
     * Seguridad
+
+# 4.3 Landing Page UI Design
+
+La landing page de **Regula** está diseñada siguiendo una estructura clara orientada a **User Experience (UX)** y **conversión**, comunicando la propuesta de valor del sistema de forma directa.
+
+---
+
+## Estructura principal
+
+### Hero Section
+- Título principal (*value proposition*)
+- Descripción breve del sistema
+- Botones CTA (*Call To Action*):
+  - “Get Started”
+  - “Learn More”
+- Imagen representativa del sistema (dashboard + IoT)
+
+---
+
+### Problem & Solution Section
+- Identificación de problemas:
+  - Fugas de gas
+  - Control manual
+  - Falta de trazabilidad
+- Presentación de la solución:
+  - Monitoreo en tiempo real
+  - Plataforma web centralizada
+
+---
+
+### Features Section
+Visualización en tarjetas (*cards UI*) de funcionalidades:
+- Monitoreo en tiempo real
+- Registro de inventario
+- Seguimiento de entregas (*tracking*)
+- Alertas automáticas
+
+---
+
+### Pricing Section
+- Planes:
+  - Básico
+  - Estándar
+  - Premium
+- Botones CTA:
+  - “Choose Plan”
+
+---
+
+### Contact Section
+- Formulario de contacto (*form UI*)
+- Botón:
+  - “Send” (captación de leads)
+
+---
+
+### Footer
+- Enlaces de navegación secundaria (*footer navigation*)
+- Información legal
+- Redes sociales
+
+---
+
+## Aspectos de diseño (UI/UX)
+
+- Diseño **responsive** (adaptable a mobile y desktop)
+- Navegación intuitiva (*user-friendly navigation*)
+- Uso de colores funcionales:
+  - Rojo → alertas
+  - Azul → acciones principales
+  - Verde → confirmaciones
+- Estructura basada en **jerarquía visual** (*visual hierarchy*) para facilitar la lectura
