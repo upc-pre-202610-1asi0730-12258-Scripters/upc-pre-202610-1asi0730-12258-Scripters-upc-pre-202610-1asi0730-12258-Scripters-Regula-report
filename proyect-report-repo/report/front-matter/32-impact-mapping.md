@@ -1,0 +1,1 @@
+<img src="../../report/assets/images/impact-map.png">
