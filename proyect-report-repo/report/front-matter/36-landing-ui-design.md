@@ -1,84 +1,74 @@
-## 4.3. Landing Page UI Design
+# 4.3 Landing Page UI Design
 
-La landing page de **Regula** está diseñada con una estructura clara orientada a **UX y conversión**, comunicando la propuesta de valor de forma directa y comprensible.
-
----
-
-### Estructura Principal
-
-#### **Hero Section**
-
-* Título principal (*value proposition*)
-* Descripción breve del sistema
-* Botones CTA: *“Get Started”* y *“Learn More”*
-* Imagen representativa (dashboard + IoT)
+La landing page de **Regula** está diseñada siguiendo una estructura clara orientada a **User Experience (UX)** y **conversión**, comunicando la propuesta de valor del sistema de forma directa.
 
 ---
 
-#### **Problem & Solution Section**
+## Estructura principal
 
-* Identificación de problemas:
-
-    * Fugas de gas
-    * Control manual
-    * Falta de trazabilidad
-
-* Presentación de la solución:
-
-    * Monitoreo en tiempo real
-    * Plataforma web centralizada
+### Hero Section
+- Título principal (*value proposition*)
+- Descripción breve del sistema
+- Botones CTA (*Call To Action*):
+  - “Get Started”
+  - “Learn More”
+- Imagen representativa del sistema (dashboard + IoT)
 
 ---
 
-#### **Features Section**
-
-Visualización en **cards UI** de funcionalidades:
-
-* Monitoreo en tiempo real
-* Registro de inventario
-* Seguimiento de entregas (*tracking*)
-* Alertas automáticas
-
----
-
-#### **Pricing Section**
-
-* Planes: **Básico, Estándar y Premium**
-* Botones CTA: *“Choose Plan”*
+### Problem & Solution Section
+- Identificación de problemas:
+  - Fugas de gas
+  - Control manual
+  - Falta de trazabilidad
+- Presentación de la solución:
+  - Monitoreo en tiempo real
+  - Plataforma web centralizada
 
 ---
 
-#### **Contact Section**
-
-* Formulario de contacto (*form UI*)
-* Botón: *“Send”* (captación de leads)
-
----
-
-#### **Footer**
-
-* Navegación secundaria (*footer navigation*)
-* Información legal
-* Redes sociales
+### Features Section
+Visualización en tarjetas (*cards UI*) de funcionalidades:
+- Monitoreo en tiempo real
+- Registro de inventario
+- Seguimiento de entregas (*tracking*)
+- Alertas automáticas
 
 ---
 
-### Aspectos de Diseño (UI/UX)
+### Pricing Section
+- Planes:
+  - Básico
+  - Estándar
+  - Premium
+- Botones CTA:
+  - “Choose Plan”
 
-* **Diseño responsive:**
-  Adaptable a mobile, tablet y desktop
+---
 
-* **Navegación intuitiva:**
-  Flujo claro y fácil de usar (*user-friendly navigation*)
+### Contact Section
+- Formulario de contacto (*form UI*)
+- Botón:
+  - “Send” (captación de leads)
 
-* **Uso de colores funcionales:**
+---
 
-    * Rojo → alertas
-    * Azul → acciones principales
-    * Verde → confirmaciones
+### Footer
+- Enlaces de navegación secundaria (*footer navigation*)
+- Información legal
+- Redes sociales
 
-* **Jerarquía visual:**
-  Organización del contenido para facilitar la lectura y guiar al usuario en la toma de decisiones
+---
+
+## Aspectos de diseño (UI/UX)
+
+- Diseño **responsive** (adaptable a mobile y desktop)
+- Navegación intuitiva (*user-friendly navigation*)
+- Uso de colores funcionales:
+  - Rojo → alertas
+  - Azul → acciones principales
+  - Verde → confirmaciones
+- Estructura basada en **jerarquía visual** (*visual hierarchy*) para facilitar la lectura
 
 ### 4.3.1. Landing Page Wireframe.
  <img src="../../report/assets/wireframes/lading-wireframe.png">
