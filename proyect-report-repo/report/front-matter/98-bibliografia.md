@@ -1,7 +1,5 @@
 # Bibliografía
 
-- Figma. (2026). *Mockups and wireframes del sistema Regula*. Recuperado de: https://www.figma.com/design/dnndqKVVtzhYPxfJ17uOUH/Untitled?node-id=0-1&t=eAz1VepNooYYD6Dy-1
-
 - Organización Mundial de la Salud. (2023). *Household air pollution and health*. Recuperado de: https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health
 
 - Banco Interamericano de Desarrollo. (2020). *La digitalización de las pymes en América Latina y el Caribe*. Recuperado de: https://publications.iadb.org
