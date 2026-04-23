@@ -1,6 +1,6 @@
 <div class="page"></div>
 
-### Tabla de contenidos
+# **Tabla de contenidos**
 
 ## Capítulo I: Introducción
 
