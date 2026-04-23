@@ -1,0 +1,10 @@
+## 1.3. Segmentos Objetivo
+
+
+- **Distribuidores de gas (minoristas y puntos de venta autorizados)**
+
+Este primer segmento está conformado por los distribuidores de balones de gas, tanto formales como independientes. Este grupo suele estar compuesto por pequeños y medianos negocios, ubicados principalmente en zonas urbanas y periurbanas, donde la demanda de gas doméstico es constante. En muchos casos, estos distribuidores cuentan con pocos trabajadores y manejan sus operaciones de forma manual, utilizando cuadernos o registros básicos para controlar inventario, ventas y deudas. A nivel demográfico, los responsables suelen ser adultos entre 25 y 55 años, con experiencia en el rubro más que formación tecnológica, lo que influye en la baja adopción de herramientas digitales. Diversos estudios y reportes del sector indican que una gran parte de estos negocios presenta problemas de informalidad, desorganización y falta de control logístico, lo que impacta directamente en sus ingresos y eficiencia operativa.
+
+- **Empresas de gas (productoras y distribuidoras a gran escala)**
+
+El segundo segmento está compuesto por las empresas envasadoras de gas, que operan a mayor escala y son responsables del llenado, control y distribución de los balones hacia los distintos puntos de venta. Estas empresas cuentan con infraestructura más amplia, incluyendo plantas de envasado y almacenes, donde se manejan grandes volúmenes de balones. Los encargados de las empresas embasadoras suelen estar entre los 45 a 60 años. A nivel organizacional, suelen tener áreas definidas como logística, operaciones y administración, pero aún pueden presentar limitaciones en la integración de sistemas digitales, especialmente en el monitoreo en tiempo real de sus procesos. Según Osinergmin, el consumo de GLP en el país ha mantenido una tendencia creciente en los últimos años, lo que incrementa la presión sobre estas empresas para optimizar sus operaciones y garantizar la seguridad en el manejo de los balones para reducir pérdidas económicas y dar un servicio de calidad.
