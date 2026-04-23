@@ -218,3 +218,89 @@ Esto se confirmará cuando:
 - El informe esté finalizado en el formato requerido
 
 ---
+## 5.2.1.3. Sprint Backlog 1
+
+El Sprint Backlog 1 está compuesto por las historias de usuario priorizadas para la construcción de la primera versión funcional del sistema **Regula**, enfocadas en monitoreo, inventario, distribución y visualización.
+
+| ID | User Story | Descripción | Prioridad | Story Points |
+|----|-----------|------------|----------|--------------|
+| US-01 | Monitoreo de fugas | Visualizar en tiempo real la detección de gas mediante sensores IoT | Alta | 8 |
+| US-02 | Alertas automáticas | Recibir notificaciones ante fugas o condiciones anormales | Alta | 5 |
+| US-03 | Dashboard principal | Visualizar estado general de operaciones | Alta | 5 |
+| US-04 | Registro de entradas | Registrar ingreso de balones al inventario | Alta | 3 |
+| US-05 | Registro de salidas | Registrar salida de balones del inventario | Alta | 3 |
+
+---
+
+## 5.2.1.4. Development Evidence for Sprint Review
+
+Durante el Sprint 1 se desarrollaron los siguientes componentes del sistema:
+
+- Implementación de la estructura base del Landing Page
+- Desarrollo de secciones principales (Home, About, Features, Contact)
+- Integración de estilos CSS para mejorar la experiencia visual
+- Implementación de scripts básicos en JavaScript para interacción
+- Configuración del repositorio en GitHub con control de versiones
+- Uso de ramas (`feature`, `develop`, `main`) para organizar el desarrollo
+- Aplicación de Conventional Commits en los cambios realizados
+
+También se avanzó en:
+
+- Definición de la arquitectura basada en DDD
+- Modelado de eventos, comandos y agregados mediante EventStorming
+- Documentación del proyecto (capítulos del informe)
+
+---
+
+## 5.2.1.5. Execution Evidence for Sprint Review
+
+La ejecución del Sprint 1 se evidencia a través de:
+
+- Despliegue del Landing Page en entorno accesible públicamente
+- Navegación funcional entre secciones principales
+- Correcta visualización en navegador
+- Uso de HTML, CSS y JavaScript siguiendo estándares definidos
+- Integración del contenido del proyecto en la página
+
+Además:
+
+- El equipo realizó reuniones virtuales mediante Microsoft Teams
+- Se cumplió con la planificación del Sprint dentro del tiempo establecido
+- Se logró una primera versión funcional del producto
+
+---
+
+## 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint se documentaron los servicios y funcionalidades principales del sistema:
+
+### Servicios definidos
+
+- **Monitoreo de seguridad (IoT)**
+    - Detección de gas en tiempo real
+    - Generación de alertas
+
+- **Gestión de inventario**
+    - Registro de entradas y salidas
+    - Control de stock
+
+- **Distribución y logística**
+    - Asignación de entregas
+    - Seguimiento de pedidos
+
+- **Cobranzas**
+    - Registro de pagos
+    - Control de deudas
+
+---
+
+### Documentación generada
+
+- Historias de usuario con criterios de aceptación
+- Modelado de dominio (DDD)
+- EventStorming (Big Picture y Design-Level)
+- Definición de bounded contexts
+- Ubiquitous Language del sistema
+- Lean UX (problem statements, assumptions, hipótesis)
+
+---
