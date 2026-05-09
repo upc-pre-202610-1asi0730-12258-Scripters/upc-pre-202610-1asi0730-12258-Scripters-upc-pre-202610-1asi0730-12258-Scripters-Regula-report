@@ -1,10 +1,36 @@
-## 1.3. Segmentos Objetivo
+# 1.3. Segmentos objetivo
 
+## Empresas de gas (productoras y distribuidoras a gran escala)
 
-- **Distribuidores de gas (minoristas y puntos de venta autorizados)**
+### Descripción
+Son empresas encargadas de la producción, almacenamiento y distribución masiva de balones de gas (GLP). Manejan grandes volúmenes de inventario y operan mediante plantas, centros de almacenamiento y flotas de transporte. Su operación incluye procesos críticos como llenado, inspección, almacenamiento y despacho de balones.
 
-Este primer segmento está conformado por los distribuidores de balones de gas, tanto formales como independientes. Este grupo suele estar compuesto por pequeños y medianos negocios, ubicados principalmente en zonas urbanas y periurbanas, donde la demanda de gas doméstico es constante. En muchos casos, estos distribuidores cuentan con pocos trabajadores y manejan sus operaciones de forma manual, utilizando cuadernos o registros básicos para controlar inventario, ventas y deudas. A nivel demográfico, los responsables suelen ser adultos entre 25 y 55 años, con experiencia en el rubro más que formación tecnológica, lo que influye en la baja adopción de herramientas digitales. Diversos estudios y reportes del sector indican que una gran parte de estos negocios presenta problemas de informalidad, desorganización y falta de control logístico, lo que impacta directamente en sus ingresos y eficiencia operativa.
+### Necesidad
+Requieren soluciones tecnológicas que les permitan:
 
-- **Empresas de gas (productoras y distribuidoras a gran escala)**
+- Detectar fugas de gas en tiempo real durante almacenamiento y transporte.
+- Reducir pérdidas económicas por fugas, robos o balones defectuosos.
+- Optimizar la gestión logística (entrada, salida y distribución).
+- Garantizar el cumplimiento de normas de seguridad industrial.
 
-El segundo segmento está compuesto por las empresas envasadoras de gas, que operan a mayor escala y son responsables del llenado, control y distribución de los balones hacia los distintos puntos de venta. Estas empresas cuentan con infraestructura más amplia, incluyendo plantas de envasado y almacenes, donde se manejan grandes volúmenes de balones. Los encargados de las empresas embasadoras suelen estar entre los 45 a 60 años. A nivel organizacional, suelen tener áreas definidas como logística, operaciones y administración, pero aún pueden presentar limitaciones en la integración de sistemas digitales, especialmente en el monitoreo en tiempo real de sus procesos. Según Osinergmin, el consumo de GLP en el país ha mantenido una tendencia creciente en los últimos años, lo que incrementa la presión sobre estas empresas para optimizar sus operaciones y garantizar la seguridad en el manejo de los balones para reducir pérdidas económicas y dar un servicio de calidad.
+### Sustento
+Las fugas de gas representan un riesgo importante en entornos industriales y domésticos, siendo una de las principales causas de accidentes relacionados con energía. La implementación de sistemas de monitoreo y detección temprana permite reducir significativamente estos riesgos y mejorar la seguridad operativa (Organización Mundial de la Salud, 2023). Asimismo, la digitalización de procesos logísticos en empresas permite optimizar la trazabilidad, reducir pérdidas y mejorar la eficiencia en la cadena de suministro (Banco Interamericano de Desarrollo, 2020).
+
+---
+
+## Distribuidores de gas (minoristas y puntos de venta)
+
+### Descripción
+Son pequeños y medianos negocios que se encargan de la distribución directa de balones de gas a consumidores finales. Incluyen locales físicos y repartidores (motorizados o camiones). Suelen manejar procesos más manuales y con menor nivel tecnológico.
+
+### Necesidad
+Necesitan herramientas accesibles que les permitan:
+
+- Detectar fugas de gas en sus locales o puntos de almacenamiento.
+- Monitorear la seguridad de los balones (sensores, alertas).
+- Gestionar pedidos y entregas (geolocalización de motorizados).
+- Llevar registro de ventas, entrada y salida de balones.
+- Controlar cobranzas a clientes (especialmente fiados).
+
+### Sustento
+En América Latina, muchas pequeñas y medianas empresas aún operan con procesos manuales, lo que incrementa los riesgos operativos, errores en gestión y pérdidas económicas. La adopción de herramientas digitales mejora significativamente la eficiencia, control y seguridad en sus operaciones (Banco Interamericano de Desarrollo, 2020). Además, la prevención de riesgos asociados al gas es clave para reducir accidentes en entornos comerciales y domésticos (Organización Mundial de la Salud, 2023).

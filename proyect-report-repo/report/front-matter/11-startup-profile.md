@@ -11,29 +11,9 @@ La propuesta de valor de Regula se basa en optimizar los procesos logísticos, m
 El modelo de negocio se basa en un esquema de suscripción mensual (SaaS), con un Plan Básico que incluye registro de operaciones, registro de local (empresa/distribuidor) y monitoreo limitado, un Plan Estándar que incorpora alertas (sensores ambientales), mayor capacidad de almacenamiento de datos y control, y un Plan Premium que ofrece todo lo anterior, analítica avanzada y gestión integral de la distribución, además que permite regitrar más de un local por usuario. Entre sus principales ventajas competitivas destacan su adaptación a entornos abiertos, el no depender de sensores para cada balón sino un sensor ambiental que recopila información en toda una área, la integración de múltiples procesos en una sola plataforma y su capacidad de escalar según las necesidades de cada empresa.
 
 
-<table>
-<div align="center">
-    <colgroup></colgroup>
-    <thead>
-        <tr>
-            <th><div align="center">Mision</th>
-            <th><div align="center">Vision</th>
-            <th><div align="center">Valores</th>
-        </tr>
-    </thead>
-</div>
-<tbody>
-    <tr>
-        <td>Desarrollar soluciones tecnológicas innovadoras que permitan a las empresas envasadoras y distribuidoras de balones de gas optimizar sus procesos operativos, mejorar la seguridad en sus almacenes y tomar decisiones basadas en datos en tiempo real mediante el uso de aplicaciones web, móviles y tecnología IoT.</td>
-        <td>Convertirnos en una startup líder en Latinoamérica en la digitalización y control inteligente de procesos logísticos y de seguridad, expandiendo nuestras soluciones a diferentes industrias que requieran monitoreo, trazabilidad y gestión eficiente de recursos físicos.</td>
-        <td><b>Innovación:</b> Buscamos constantemente nuevas formas de aplicar tecnología para resolver problemas reales.<br>
-        <b>Seguridad:</b> Priorizamos la protección de las personas, los activos y el entorno en cada solución que desarrollamos.
-        <b>Eficiencia:</b> Diseñamos herramientas que optimizan procesos y reducen pérdidas operativas.<br>   
-        <b>Compromiso:</b> Trabajamos con responsabilidad y dedicación para ofrecer soluciones de calidad.
-        Adaptabilidad: Nos ajustamos a las necesidades reales del mercado y de nuestros clientes.</td>
-    </tr>
-</tbody>
-</table>
+| Misión | Visión | Valores |
+|---|---|---|
+| Desarrollar soluciones tecnológicas innovadoras que permitan a las empresas envasadoras y distribuidoras de balones de gas optimizar sus procesos operativos, mejorar la seguridad en sus almacenes y tomar decisiones basadas en datos en tiempo real mediante el uso de aplicaciones web, móviles y tecnología IoT. | Convertirnos en una startup líder en Latinoamérica en la digitalización y control inteligente de procesos logísticos y de seguridad, expandiendo nuestras soluciones a diferentes industrias que requieran monitoreo, trazabilidad y gestión eficiente de recursos físicos. | **Innovación:** Buscamos constantemente nuevas formas de aplicar tecnología para resolver problemas reales.<br><br>**Seguridad:** Priorizamos la protección de las personas, los activos y el entorno en cada solución que desarrollamos.<br><br>**Eficiencia:** Diseñamos herramientas que optimizan procesos y reducen pérdidas operativas.<br><br>**Compromiso:** Trabajamos con responsabilidad y dedicación para ofrecer soluciones de calidad.<br><br>**Adaptabilidad:** Nos ajustamos a las necesidades reales del mercado y de nuestros clientes. |
 
 ### 1.1.2. Perfiles de integrantes del grupo
 
