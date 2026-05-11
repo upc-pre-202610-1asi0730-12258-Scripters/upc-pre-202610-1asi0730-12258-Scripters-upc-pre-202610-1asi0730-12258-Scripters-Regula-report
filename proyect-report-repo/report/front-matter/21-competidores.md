@@ -64,4 +64,3 @@ Esta etapa es fundamental en el desarrollo de nuestro sistema, ya que permite id
 - **Funciones diferenciadoras:** Incorporaremos alertas en tiempo real sobre fugas de gas en almacenes, control de deudas por cliente y seguimiento de rutas de distribución, ofreciendo una solución más completa frente a plataformas enfocadas solo en monitoreo o consumo.
 
 - **Planes escalables:** Ofreceremos distintos niveles de suscripción según el tamaño del negocio, permitiendo a distribuidores y empresas crecer en funcionalidades sin necesidad de realizar grandes inversiones iniciales.
-
