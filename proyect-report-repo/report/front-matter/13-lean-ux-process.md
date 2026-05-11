@@ -1,189 +1,132 @@
 # 1.2.2 Lean UX Process
 
-## 1.2.2.1 Lean UX Problem Statements
+## 1.2.2.1. Lean UX Problem Statements
 
-El sector de distribución y envasado de balones de GLP en el Perú continúa operando con un bajo nivel de digitalización y una alta dependencia de procesos manuales. Actualmente, muchas empresas envasadoras y distribuidoras gestionan el inventario, las ventas, las cobranzas y el seguimiento de entregas mediante cuadernos, llamadas telefónicas, mensajes de WhatsApp o registros básicos en Excel. Esta situación genera desorden operativo, errores en el control de información, dificultades para supervisar repartos y poca capacidad de respuesta ante incidentes relacionados con fugas de gas o problemas logísticos.
+El sector de distribución y envasado de balones de GLP en el Perú continúa operando con un bajo nivel de digitalización y con procesos altamente dependientes de controles manuales. Actualmente, muchas empresas envasadoras y distribuidoras aún gestionan el inventario, las ventas, las cobranzas y el seguimiento de entregas mediante cuadernos, llamadas telefónicas, mensajes de WhatsApp o registros básicos en Excel. Esta situación genera desorden operativo, errores en el control de balones, dificultades para supervisar repartos y poca capacidad de respuesta ante incidentes relacionados con fugas de gas o problemas logísticos.
 
-Además, el sector enfrenta un contexto de alto riesgo operativo y de seguridad. Se estima que en el Perú existen más de 4 millones de balones de gas que no cumplen normas técnicas, muchos de ellos con válvulas deterioradas, corrosión o daños estructurales, incrementando el riesgo de fugas, pérdidas económicas y accidentes. A esto se suman problemas frecuentes como robos durante el transporte, pérdidas de stock, dificultades para controlar cobranzas y poca visibilidad sobre quién realiza cada entrega y en qué ubicación se encuentra el reparto.
+Además, el mercado enfrenta un contexto de alto riesgo operativo y de seguridad. Se estima que en el Perú existen más de 4 millones de balones de gas que no cumplen normas técnicas, muchos de ellos con válvulas deterioradas, corrosión o daños estructurales, incrementando el riesgo de fugas, pérdidas económicas y accidentes. A esto se suman problemas frecuentes como robos durante el transporte, pérdidas de stock, dificultades para controlar créditos y cobranzas, así como la falta de trazabilidad sobre quién realiza cada entrega y en qué ubicación se encuentra el reparto.
 
-Aunque existen soluciones tecnológicas dirigidas al sector GLP, la mayoría se enfoca únicamente en áreas específicas como logística, facturación o monitoreo de inventario. Sin embargo, muchas de estas herramientas no integran funcionalidades clave como alertas de seguridad ante posibles fugas, control operativo, seguimiento de repartidores, gestión de cobranzas y centralización de información en una sola plataforma accesible para pequeñas y medianas empresas.
+Aunque actualmente existen soluciones tecnológicas orientadas al sector GLP, la mayoría aborda únicamente partes aisladas del problema. Algunas plataformas se enfocan en la gestión logística o monitoreo de inventario, mientras que otras se especializan en consumo de gas, analítica o facturación. Sin embargo, ninguna integra de manera accesible para pequeñas y medianas empresas funcionalidades clave como monitoreo de seguridad mediante alertas de fuga, control operativo de balones, seguimiento de repartidores en tiempo real, gestión de cobranzas y centralización de información en una sola plataforma. Como consecuencia, muchas empresas continúan utilizando procesos manuales paralelos incluso después de adoptar herramientas digitales.
 
-A partir de entrevistas realizadas a distribuidores y representantes del sector, se identificó una oportunidad importante para desarrollar una solución digital centralizada que permita mejorar la seguridad, la trazabilidad y la eficiencia operativa del negocio. Los usuarios entrevistados mostraron interés en herramientas que faciliten el control de inventario, reduzcan errores manuales, permitan supervisar repartidores y ayuden a reaccionar rápidamente ante incidentes relacionados con fugas o pérdidas.
+A partir de las entrevistas realizadas a distribuidores y representantes del sector, identificamos una oportunidad importante para desarrollar una solución digital centralizada que permita mejorar la seguridad, trazabilidad y eficiencia operativa del negocio. Los usuarios entrevistados mostraron interés en herramientas que faciliten el control de inventario, reduzcan errores manuales, permitan supervisar repartidores y ayuden a reaccionar rápidamente ante incidentes relacionados con fugas o pérdidas.
 
-Por ello, Regula propone una plataforma web enfocada en empresas y distribuidores de gas que integra monitoreo de seguridad, registro digital de operaciones, seguimiento logístico y control administrativo en un solo entorno. La solución busca reducir riesgos operativos, mejorar la organización del negocio y brindar mayor visibilidad sobre las entregas, las operaciones diarias y el control general del negocio mediante una herramienta accesible y adaptable al contexto real del sector GLP.
+Por ello, Regula propone una plataforma web enfocada en empresas y distribuidores de gas que integra monitoreo de seguridad, registro digital de operaciones, seguimiento logístico y control administrativo en un solo entorno. La solución busca reducir riesgos operativos, mejorar la organización del negocio y brindar mayor visibilidad sobre el estado de los balones, las entregas y las operaciones diarias mediante una herramienta accesible y adaptable al contexto real del sector GLP.
 
+---
 
 ## 1.2.2.2. Lean UX Assumptions
 
-### Assumption 1
-Se asume que las empresas y distribuidores de gas requieren una forma más centralizada y eficiente de supervisar posibles fugas de gas durante el almacenamiento y distribución. Actualmente, muchos negocios no cuentan con herramientas digitales de monitoreo preventivo, lo que dificulta detectar incidentes a tiempo y reaccionar oportunamente ante situaciones de riesgo.
+### Business Assumptions
 
-### Assumption 2
-Se asume que gran parte de los distribuidores aún utiliza procesos manuales o poco organizados para registrar la entrada y salida de balones, dificultando el control del inventario y el seguimiento de operaciones diarias. Esta situación justifica la necesidad de una plataforma digital que centralice y ordene la información.
+#### Assumption 1
+Creemos que las empresas envasadoras y distribuidoras de gas presentan dificultades para supervisar de forma eficiente sus operaciones debido al uso de procesos manuales o herramientas dispersas para registrar inventario, ventas y movimientos de balones.
 
-### Assumption 3
-Se asume que la detección tardía de fugas, válvulas deterioradas o condiciones inseguras representa un problema frecuente dentro de las operaciones de empresas y distribuidores de gas. Este supuesto sustenta la necesidad de incorporar alertas tempranas y monitoreo preventivo dentro de la plataforma.
+#### Assumption 2
+Creemos que la falta de monitoreo preventivo en zonas de almacenamiento y distribución incrementa el riesgo de fugas de gas, accidentes operativos y pérdidas económicas dentro del sector GLP.
 
-### Assumption 4
-Se asume que los usuarios valorarán una solución que permita visualizar en un solo entorno información relacionada con alertas de seguridad, registros operativos, historial de movimientos y monitoreo general del negocio.
+#### Assumption 3
+Creemos que los distribuidores de gas necesitan mayor visibilidad y trazabilidad sobre sus entregas, repartidores y rutas de distribución para reducir pérdidas, retrasos e incidentes operativos.
 
-### Assumption 5
-Se asume que recibir notificaciones automáticas ante posibles fugas o comportamientos anómalos ayudaría a reducir riesgos de seguridad, pérdidas económicas y tiempos de respuesta tardíos dentro de las operaciones.
+#### Assumption 4
+Creemos que los pequeños y medianos distribuidores de gas están dispuestos a adoptar herramientas digitales si estas son fáciles de utilizar y les ayudan a reducir errores operativos y mejorar el control de sus negocios.
 
-### Assumption 6
-Se asume que los distribuidores presentan dificultades para supervisar correctamente sus procesos de reparto, especialmente cuando intervienen diferentes motorizados, vehículos o responsables de entrega. Por ello, el seguimiento de entregas y la visualización de ubicación representan funcionalidades importantes para el control operativo.
+#### Assumption 5
+Creemos que los usuarios del sector GLP valoran más una solución centralizada que integre seguridad, monitoreo y gestión operativa en una sola plataforma, en lugar de utilizar múltiples herramientas separadas.
 
-### Assumption 7
-Se asume que contar con información relacionada al delivery, como responsable de la entrega, vehículo y ubicación en ruta, mejoraría la confianza, la supervisión y la capacidad de respuesta ante retrasos o incidentes durante la distribución.
+#### Assumption 6
+Creemos que la falta de control organizado sobre pagos pendientes y clientes con crédito afecta negativamente el flujo de ingresos y la planificación financiera de los distribuidores de gas.
 
-### Assumption 8
-Se asume que los distribuidores y pequeñas empresas del sector estarían dispuestos a adoptar una plataforma web si esta les ayuda a organizar mejor sus operaciones, reducir errores manuales y obtener un mayor control de sus entregas y procesos operativos.
+#### Assumption 7
+Creemos que las empresas y distribuidores de gas consideran importante reaccionar rápidamente ante incidentes relacionados con fugas, pérdidas o problemas logísticos para evitar impactos económicos y riesgos de seguridad.
 
-### Assumption 9
-Se asume que un modelo de suscripción sería aceptable para los negocios del sector siempre que la plataforma demuestre beneficios claros en seguridad, monitoreo y control administrativo.
+#### Assumption 8
+Creemos que los distribuidores necesitan acceso rápido y confiable a la información histórica de sus operaciones para mejorar la toma de decisiones relacionadas con inventario, abastecimiento y distribución.
 
-### Assumption 10
-Se asume que el segmento más adecuado para validar inicialmente la solución está conformado por distribuidores y pequeñas empresas de gas, ya que enfrentan de manera más directa problemas relacionados con control operativo, seguridad, registros y distribución.
+#### Assumption 9
+Creemos que existe una oportunidad en el mercado para una solución enfocada específicamente en pequeñas y medianas empresas del sector GLP, ya que muchas plataformas actuales están orientadas a grandes corporaciones o cubren solo partes del problema.
 
----
+#### Assumption 10
+Creemos que un modelo de suscripción mensual sería aceptado por empresas y distribuidores del sector si la solución demuestra beneficios concretos relacionados con seguridad, organización operativa y reducción de pérdidas.
 
-## Assumptions
+### Users
 
-### 1. ¿Quién es el usuario?
+- Empresas envasadoras de gas.
+- Distribuidores de gas.
 
-Los principales usuarios de Regula son:
+### Users Outcomes
 
-- Empresas de gas, responsables de supervisar la seguridad y mantener control sobre sus operaciones.
-- Distribuidores de gas, encargados del almacenamiento, control de inventario, reparto y seguimiento de entregas.
+- Tener mayor control sobre inventario y movimientos de balones.
+- Detectar riesgos operativos de forma más rápida.
+- Mejorar el seguimiento de repartidores y entregas.
+- Reducir errores generados por procesos manuales.
+- Mejorar el control de cobranzas y pagos pendientes.
+- Acceder rápidamente a información relevante del negocio.
+- Tener mayor trazabilidad sobre las operaciones diarias.
 
-Como segmento inicial, la solución se enfocará principalmente en distribuidores y pequeñas empresas del rubro, debido a que presentan mayores dificultades relacionadas con organización operativa y control de procesos.
+### Features
 
----
-
-### 2. ¿Qué problemas debe resolver nuestro producto?
-
-Los principales problemas identificados son:
-
-- Registro manual o desordenado de operaciones.
-- Dificultad para controlar inventario y movimientos.
-- Poca capacidad para detectar incidentes rápidamente.
-- Falta de supervisión clara sobre repartidores y entregas.
-- Uso de herramientas separadas para manejar información operativa.
-- Problemas para gestionar cobranzas y clientes con deuda.
-
-Para abordar estas dificultades, Regula propone una plataforma que centraliza la información operativa del negocio, facilita el registro de operaciones, mejora el monitoreo de seguridad y permite supervisar entregas desde un solo entorno digital.
-
----
-
-### 3. ¿Qué características son importantes?
-
-Las funcionalidades principales consideradas para la solución son:
-
-- Dashboard centralizado de monitoreo operativo.
-- Registro digital de entrada y salida de balones.
-- Registro de ventas y movimientos operativos.
+- Dashboard centralizado de monitoreo.
+- Registro digital de entradas y salidas de balones.
+- Gestión de ventas y cobranzas.
 - Alertas automáticas ante posibles fugas o anomalías.
 - Seguimiento de entregas y geolocalización.
-- Consulta de información del delivery y vehículo.
-- Historial de registros y operaciones.
-- Módulo de cobranzas y control de deudas.
+- Historial de operaciones y movimientos.
+- Gestión de repartidores y vehículos.
+- Reportes operativos y administrativos.
 
----
-
-### 4. ¿Dónde encaja nuestro producto en la vida o trabajo de los usuarios?
-
-Regula se integra en la operación diaria de empresas y distribuidores de gas.
-
-Las empresas pueden utilizar la plataforma para supervisar alertas, monitorear operaciones y mantener mayor control sobre la seguridad y organización de sus procesos.
-
-Por otro lado, los distribuidores utilizan la solución para registrar movimientos, controlar inventario, supervisar repartos y gestionar cobranzas.
-
-En general, la plataforma funciona como una herramienta de apoyo para reemplazar procesos manuales y mejorar el control operativo diario.
-
----
-
-### 5. ¿Cuándo y cómo es usado nuestro producto?
-
-Las empresas utilizan la plataforma al monitorear alertas, revisar operaciones y supervisar información relacionada con seguridad y control operativo.
-
-Los distribuidores utilizan la solución durante su jornada laboral para registrar movimientos, consultar el inventario, supervisar entregas y gestionar cobranzas.
-
----
-
-### 6. ¿Cómo debe verse y comportarse nuestro producto?
-
-La plataforma debe presentar una interfaz clara, simple e intuitiva.
-
-El sistema debe permitir registrar información de manera rápida y organizada, evitando procesos innecesarios o complejos.
-
-Las alertas deben ser visibles y fáciles de comprender, sin saturar al usuario con información irrelevante.
-
-Asimismo, la información debe mostrarse de forma ordenada para facilitar el control operativo, la supervisión de entregas y el seguimiento de registros.
-
-Finalmente, la plataforma debe transmitir confianza mediante historial de operaciones, registros claros y datos organizados.
-
-## Business Outcomes
+### Tabla de Assumptions
 
 | Assumption relacionada | Outcome esperado | Definition of Done |
 |---|---|---|
-| Assumption 1, 3, 5 | Reducción de incidentes relacionados con fugas o anomalías no detectadas oportunamente | Al menos el 70% de los usuarios reporta haber recibido una alerta antes de detectar manualmente una posible fuga o situación anómala durante los primeros 3 meses de uso |
-| Assumption 2, 4 | Mayor organización y control en el registro de operaciones e inventario | El 80% de los distribuidores reemplaza registros manuales en papel o Excel por el uso continuo de la plataforma después de 60 días |
-| Assumption 6, 7 | Mejor supervisión del reparto y seguimiento de entregas | El 75% de los distribuidores puede visualizar información relacionada con ubicación y responsable de la mayoría de sus entregas diarias |
-| Assumption 8, 10 | Validación y adopción inicial de la plataforma por parte del segmento objetivo | Al menos 10 distribuidores o pequeñas empresas completan el onboarding y utilizan activamente la plataforma durante el primer mes del piloto |
-| Assumption 9 | Validación de la viabilidad del modelo de suscripción | Al menos el 60% de los usuarios participantes del piloto manifiesta interés en continuar utilizando la plataforma mediante un plan de pago |
-
-## Users
-
-- Empresas envasadoras de gas.
-- Distribuidores de gas formales e independientes.
+| 1, 8 | Mejor organización y control operativo | El 80% de los usuarios deja de utilizar registros manuales tras 60 días de uso |
+| 2, 7 | Reducción de riesgos y tiempos de respuesta | El 70% de los usuarios reporta una mejora en la detección y reacción ante incidentes |
+| 3 | Mayor trazabilidad en la distribución | El 75% de las entregas activas puede ser supervisada correctamente por los distribuidores |
+| 4, 5, 9 | Adopción de la plataforma por el segmento objetivo | Al menos 10 distribuidores utilizan activamente la plataforma durante el piloto |
+| 6 | Mejor control financiero | El 70% de los distribuidores reporta mejoras en el seguimiento de pagos y deudas |
+| 10 | Validación del modelo de negocio | El 60% de los usuarios piloto muestra intención de pago al finalizar el periodo de prueba |
 
 ---
 
-## Users Outcomes
+### Priorización de Assumptions
 
-### Empresas envasadoras
-Mayor control y visibilidad sobre sus operaciones, permitiendo supervisar alertas de seguridad, monitorear procesos operativos y mantener un seguimiento más organizado de sus actividades diarias.
-
-### Distribuidores
-Mejor organización del inventario y de los registros operativos, seguimiento más claro de las entregas, mayor control sobre el personal de reparto y mejor administración de cobranzas y clientes con deuda.
+| Assumption | Riesgo | Impacto | Prioridad | Justificación |
+|---|---|---|---|---|
+| Assumption 1 | Alto | Alto | Alta | Si los usuarios no tienen problemas con procesos manuales, la plataforma perdería gran parte de su valor. |
+| Assumption 2 | Alto | Alto | Alta | La necesidad de monitoreo preventivo es clave para justificar las alertas y el enfoque de seguridad. |
+| Assumption 3 | Medio | Alto | Alta | El control de repartidores y entregas es uno de los principales problemas identificados en entrevistas. |
+| Assumption 4 | Alto | Alto | Alta | Si los distribuidores no están dispuestos a digitalizar sus procesos, la adopción del producto sería baja. |
+| Assumption 5 | Medio | Medio | Media | La integración de múltiples funcionalidades aporta diferenciación frente a competidores. |
+| Assumption 6 | Medio | Medio | Media | El problema de cobranzas afecta la organización financiera de algunos distribuidores. |
+| Assumption 7 | Medio | Alto | Alta | La rapidez ante incidentes impacta directamente en seguridad y pérdidas económicas. |
+| Assumption 8 | Bajo | Medio | Media | El acceso a información histórica mejora la planificación operativa. |
+| Assumption 9 | Alto | Alto | Alta | La propuesta depende de que exista una oportunidad real en pymes del sector GLP. |
+| Assumption 10 | Alto | Medio | Media | La viabilidad del modelo SaaS depende de la aceptación del pago por suscripción. |
 
 ---
-
-## Features
-
-- Dashboard centralizado de monitoreo y control operativo.
-- Registro digital de entrada y salida de balones.
-- Registro de ventas y movimientos operativos.
-- Alertas automáticas ante posibles fugas o anomalías.
-- Seguimiento de entregas y geolocalización.
-- Consulta de datos del delivery y vehículo.
-- Historial de registros y movimientos.
-- Módulo de cobranzas y control de deudas.
-
 
 ## 1.2.2.3. Lean UX Hypothesis Statements
 
 ### Business Hypothesis
 
-Creemos que implementar un módulo de alertas automáticas ante posibles fugas mediante sensores de gas permitirá reducir riesgos operativos y mejorar la capacidad de respuesta ante incidentes cuando las empresas y distribuidores logren detectar anomalías antes de que se conviertan en situaciones de mayor riesgo. Sabremos que estamos en lo correcto cuando la mayoría de los usuarios indique que las alertas les ayudaron a reaccionar más rápidamente ante posibles incidentes durante los primeros meses de uso.
+Creemos que implementar un módulo de alertas automáticas ante detección de fugas mediante sensores de gas logrará reducir las pérdidas económicas por incidentes no detectados a tiempo cuando los distribuidores y empresas de gas logren identificar anomalías antes de que escalen a situaciones de riesgo. Sabremos que estamos en lo correcto cuando los usuarios registren una reducción del 20% en pérdidas económicas relacionadas a fugas durante los primeros 3 meses de uso.
 
-Creemos que ofrecer un panel centralizado para el registro digital de entradas, salidas y ventas permitirá reemplazar procesos manuales cuando los distribuidores logren consultar y actualizar información operativa sin depender de registros físicos. Sabremos que estamos en lo correcto cuando el 80% de los distribuidores activos reduzca significativamente el uso de cuadernos, papel o registros manuales después de 60 días de uso de la plataforma.
+Creemos que ofrecer un panel central de registro digital de entradas, salidas y ventas de balones logrará reemplazar los procesos manuales en papel o cuaderno cuando los distribuidores logren consultar y actualizar su inventario en tiempo real sin depender de registros físicos. Sabremos que estamos en lo correcto cuando el 80% de los distribuidores activos deje de usar registros manuales tras 60 días de uso de la plataforma.
 
-Creemos que incluir un módulo de seguimiento de entregas con geolocalización e información del repartidor permitirá mejorar la supervisión del reparto cuando los distribuidores logren visualizar el estado y ubicación de las entregas activas en tiempo real. Sabremos que estamos en lo correcto cuando los usuarios reporten una mejora en el control operativo y una reducción de problemas relacionados con entregas o coordinación de reparto.
+Creemos que incluir un módulo de seguimiento de entregas con geolocalización en tiempo real e información del repartidor y vehículo logrará reducir los tiempos muertos y las pérdidas por robo durante el reparto cuando los distribuidores logren conocer en todo momento la ubicación y responsable de cada entrega activa. Sabremos que estamos en lo correcto cuando se registre una reducción del 30% en incidencias durante el reparto y una mejora del 35% en la asignación de rutas dentro del primer trimestre.
 
-Creemos que incorporar un módulo de cobranzas con registro de pagos pendientes y clientes con deuda permitirá mejorar la organización financiera de los distribuidores cuando los usuarios logren visualizar de forma clara quién debe, cuánto debe y el estado de cada cobranza. Sabremos que estamos en lo correcto cuando la mayoría de los usuarios reporte una mejora en el seguimiento de pagos y una reducción del tiempo dedicado a gestionar cobranzas.
-
----
+Creemos que incorporar un módulo de cobranzas con registro de deudas, pagos pendientes y clientes con crédito logrará mejorar el flujo de ingresos de los distribuidores cuando los distribuidores logren tener visibilidad clara de quién debe, cuánto y desde cuándo, sin depender de anotaciones manuales. Sabremos que estamos en lo correcto cuando el 70% de los usuarios reporten una mejora en el seguimiento de cobros y una reducción del tiempo dedicado a gestionar deudas en al menos un 40%.
 
 ### User Hypothesis
 
-Creemos que un dashboard simple e intuitivo para registrar ventas, entradas y salidas permitirá que los distribuidores reduzcan la dependencia de registros físicos cuando los usuarios logren encontrar información histórica de manera rápida y organizada. Sabremos que estamos en lo correcto cuando la mayoría de distribuidores indique que ahora puede acceder fácilmente a registros pasados sin dificultad.
+Creemos que un dashboard simple e intuitivo para registrar ventas, entradas y salidas de balones logrará que los distribuidores abandonen el uso de cuadernos y registros físicos cuando los usuarios logren encontrar cualquier registro pasado en segundos sin búsquedas desesperadas. Sabremos que estamos en lo correcto cuando el 80% de los distribuidores reporten que ya no tienen dificultades para recuperar información histórica de sus operaciones.
 
-Creemos que mostrar en tiempo real la ubicación y datos del motorizado encargado de cada entrega permitirá que los distribuidores tengan mayor control sobre su personal de reparto cuando los usuarios logren consultar el estado de sus entregas y brindar información más precisa a sus clientes. Sabremos que estamos en lo correcto cuando los distribuidores reporten una reducción de problemas relacionados con retrasos o falta de seguimiento.
+Creemos que mostrar en tiempo real la ubicación, ruta y datos del motorizado encargado de cada entrega logrará que los distribuidores tengan control total sobre su personal de reparto cuando los usuarios logren informar tiempos de entrega aproximados con precisión a sus clientes. Sabremos que estamos en lo correcto cuando los distribuidores reduzcan en un 40% las quejas por entregas tardías o sin información de seguimiento.
 
-Creemos que ofrecer alertas automáticas y monitoreo preventivo permitirá que las empresas y distribuidores reaccionen más rápidamente ante posibles situaciones de riesgo cuando los usuarios logren identificar anomalías sin depender únicamente de supervisión manual. Sabremos que estamos en lo correcto cuando los usuarios reporten una mayor sensación de seguridad y mejor capacidad de respuesta operativa.
+Creemos que ofrecer un módulo de identificación y registro del estado de balones con alertas ante condiciones anómalas logrará que los supervisores detecten balones defectuosos de forma más rápida y segura cuando los usuarios logren revisar el estado de sus balones sin depender de inspecciones visuales manuales. Sabremos que estamos en lo correcto cuando los usuarios reduzcan el tiempo de identificación de balones defectuosos en un 30% y reporten una mayor sensación de seguridad en sus operaciones diarias.
 
-Creemos que contar con un historial digital de movimientos y operaciones permitirá que los distribuidores tengan mayor control sobre sus procesos diarios cuando los usuarios logren consultar información histórica de manera ordenada y utilizarla para mejorar la planificación operativa. Sabremos que estamos en lo correcto cuando los distribuidores reporten una mejor organización y reducción de errores relacionados con inventario o seguimiento de operaciones.
+Creemos que contar con un historial detallado de movimientos y un módulo de trazabilidad por operación logrará que los distribuidores planifiquen mejor sus compras y eviten quedarse sin stock cuando los usuarios logren anticipar la demanda por zona basándose en datos reales de su historial. Sabremos que estamos en lo correcto cuando los distribuidores reporten una reducción del 25% en episodios de desabastecimiento durante el primer trimestre de uso.
+
+---
 
 # 1.2.2.4. Lean UX Canvas
 
