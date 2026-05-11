@@ -1,1 +1,1 @@
-<img src="../../report/assets/images/impact-map.png">
+![Impact map 1 (2).png](../assets/images/Impact%20map%201%20%282%29.png)

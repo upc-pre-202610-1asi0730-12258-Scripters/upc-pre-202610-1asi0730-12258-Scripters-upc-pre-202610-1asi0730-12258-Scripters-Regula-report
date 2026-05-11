@@ -27,49 +27,40 @@ Carlos Mendoza es un distribuidor independiente de balones de gas de 48 años, c
 
 Su principal objetivo es tener un mejor control de su negocio, reduciendo errores en los registros, organizando sus pedidos y aumentando sus ventas. Sin embargo, enfrenta problemas como el desorden en el seguimiento de pedidos, pérdida de tiempo en procesos manuales y dificultad para llevar control de clientes y deudas. Aunque no tiene un alto dominio tecnológico, está dispuesto a usar herramientas simples que le ayuden a trabajar de manera más rápida, ordenada y eficiente.
 
-### **2.3.2. User Task Matrix**
+# 2.3.2. User Task Matrix
 
-En esta sección se presenta el User Task Matrix, el cual permite identificar y organizar las principales tareas que realizan los User Personas que representan a los segmentos objetivo de la solución Regula. Este análisis se enfoca en comprender cómo operan actualmente los usuarios en su día a día dentro del negocio de distribución y envasado de balones de gas.
+| Tasks | Administrador Operativo | Supervisor Logístico | Distribuidor Independiente | Encargado de Almacén |
+|---|---|---|---|---|
+| Supervisar operaciones diarias | Alta | Alta | Media | Media |
+| Controlar inventario de balones | Alta | Media | Alta | Alta |
+| Registrar ventas realizadas | Media | Baja | Alta | Media |
+| Revisar cobranzas y pagos pendientes | Alta | Baja | Alta | Baja |
+| Coordinar entregas y pedidos | Media | Alta | Alta | Baja |
+| Supervisar repartidores | Media | Alta | Media | Baja |
+| Verificar ubicación de entregas | Baja | Alta | Alta | Baja |
+| Detectar posibles riesgos o fugas | Media | Media | Baja | Alta |
+| Registrar entradas y salidas de balones | Baja | Baja | Media | Alta |
+| Consultar información histórica de operaciones | Media | Media | Baja | Media |
+| Comunicarse con clientes | Media | Media | Alta | Baja |
+| Organizar rutas de distribución | Baja | Alta | Alta | Baja |
+| Resolver problemas operativos diarios | Alta | Alta | Alta | Media |
 
-Los segmentos considerados son:
+---
 
-- Segmento 1: Distribuidores independientes de balones de gas.<br>
-- Segmento 2: Empresas envasadoras de gas.
+A partir del análisis realizado, se identificó que las tareas con mayor frecuencia e importancia para la mayoría de User Persona están relacionadas con el control operativo, coordinación logística y supervisión de inventario. Estas actividades representan procesos críticos dentro de las operaciones diarias de distribución y comercialización de gas.
 
-Las tareas descritas corresponden a actividades habituales relacionadas con la gestión de inventario, distribución, control de ventas, cobranzas y seguridad operativa, las cuales se realizan muchas veces de forma manual o con herramientas básicas. Este análisis permite identificar problemas, ineficiencias y puntos críticos en los procesos actuales, así como detectar oportunidades donde Regula puede aportar valor mediante una solución digital más organizada, segura y eficiente.
+Se observó que el Administrador Operativo y el Supervisor Logístico presentan una alta participación en tareas relacionadas con supervisión general, monitoreo de operaciones y control administrativo. Por otro lado, el Distribuidor Independiente concentra principalmente actividades relacionadas con ventas, coordinación de pedidos y seguimiento de entregas, evidenciando una fuerte carga operativa diaria.
 
-**Segmento 1**
+Asimismo, el Encargado de Almacén se enfoca principalmente en tareas relacionadas con control de inventario, registro de movimientos de balones y detección de riesgos operativos asociados al almacenamiento.
 
-|     Task   | Frequency | Importance |
-|-------------------------------------------------------------|----------|------------|
-| Controlar inventario de balones (Excel + registros físicos)                        | Diaria        | Alta   |
-| Supervisar procesos de envasado y calidad de cilindros.                     | Diaria       | Crítica       |
-| Coordinar distribución y despacho de camiones. | Diaria      | Alta   |
-| Monitorear unidades mediante GPS.                | Diaria      | Alta     |
-| Registrar compras y ventas (guías de remisión / sistema). | Diaria       | Media       |
-| Gestionar incidencias (fugas, robos, fallas operativas).                  | Ocasional    | Media      |
+## Principales coincidencias identificadas entre los User Persona
 
-**Análisis**
+- La necesidad de controlar inventario y operaciones diariamente.
+- La importancia de coordinar correctamente entregas y distribución.
+- La dependencia de procesos manuales para registrar información.
+- La necesidad de resolver problemas operativos de manera constante.
 
-Este segmento realiza operaciones de alta prioridad de forma constante, con alta dependencia en el control diario del inventario, distribución y monitoreo de unidades. Si bien cuentan con algunos sistemas como Excel o GPS, aún existen procesos parcialmente manuales que pueden generar errores o falta de integración de la información.
-
-<br>
-
-**Segmento Objetivo 2**
-
-|     Task   | Frequency | Importance |
-|-------------------------------------------------------------|----------|------------|
-| Registrar ventas e inventario en cuaderno.                        | Diaria        | Critica   |
-| Recibir pedidos por llamadas o WhatsApp.                     | Diaria       | Alta       |
-| Coordinar y realizar entregas de balones.      | Diaria   | Alta |
-| Verificar estado de los balones (fugas o defectos).     | Diaria    | Alta |
-| Hacer seguimiento a clientes con deuda. | Semanal       | Media       |
-| Revisar stock disponible para reabastecimiento.                  | Diaria    | Alta      |
-
-**Análisis**
-
-Este segmento presenta un mayor nivel de informalidad y dependencia de procesos manuales, como el uso de cuadernos y comunicación por llamadas o WhatsApp. Sus tareas son altamente frecuentes y críticas para la operación diaria, especialmente en el control de ventas, inventario y entregas. Sin embargo, enfrentan problemas de desorden, falta de seguimiento y riesgo de errores, lo que refleja una gran oportunidad para implementar una solución simple y accesible que facilite la organización, el control y la gestión del negocio.
-
+Finalmente, las diferencias entre perfiles se evidencian principalmente en el nivel de responsabilidad logística y administrativa que cada usuario posee dentro de la operación. Mientras algunos perfiles priorizan supervisión estratégica y control administrativo, otros se enfocan en tareas operativas relacionadas directamente con reparto, ventas y atención diaria de clientes.
 ### **2.3.3. User Journey Mapping**
 
 En esta sección se presentan los User Journey Mapping, los cuales permiten visualizar paso a paso la experiencia de los usuarios al realizar sus actividades dentro del proceso de gestión y distribución de balones de gas. A través de estos recorridos, se identifican las acciones, puntos de contacto, dificultades y emociones que experimentan los usuarios en cada etapa. Este análisis ayuda a comprender mejor su experiencia actual y detectar oportunidades donde Regula puede intervenir para mejorar la eficiencia, organización y seguridad en sus operaciones.

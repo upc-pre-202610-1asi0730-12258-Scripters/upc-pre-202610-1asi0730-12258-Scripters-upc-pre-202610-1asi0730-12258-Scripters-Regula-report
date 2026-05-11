@@ -370,156 +370,383 @@ Observamos que tiene potencial para soluciones digitales para un registro de ven
 
 <br><br>
 
-### **2.2.3. Análisis de entrevistas**
+# 2.2.3. Análisis de entrevistas
 
-**Segmento Objetivo 1: Empresas embasadoras de gas (productoras y distribuidoras a gran escala)**
+## Segmento Objetivo 1: Empresas de gas (productoras y distribuidoras a gran escala)
 
-De acuerdo a las 3 entrevistas realizadas a representantes de este segmento, se identifican patrones claros en cuanto a operación, tecnología y gestión empresarial, con un enfoque más estructurado que el segmento minorista, pero aún con limitaciones en digitalización completa.
+De acuerdo con las 3 entrevistas realizadas a representantes de empresas distribuidoras y envasadoras de gas, se identificaron patrones comunes relacionados con la operación, gestión logística, nivel de digitalización y seguridad operativa. A pesar de contar con una estructura organizativa más sólida que el segmento minorista, la mayoría de empresas aún depende parcialmente de procesos manuales y herramientas tecnológicas básicas.
 
-1. Nivel de digitalización
+---
 
-El 66% de los entrevistados (2 de 3) presenta un nivel bajo de digitalización, ya que gestionan inventarios, ventas y cobranzas principalmente mediante cuadernos físicos (Entrevista 1 y Maximiliano Flores).
-El 33% (1 de 3) muestra un nivel intermedio, utilizando Microsoft Excel junto con registros físicos (Entrevista 2).
-Esto evidencia que, aunque existe cierta adopción tecnológica, la digitalización no está completamente integrada en los procesos clave.
+## Nivel de digitalización
 
-2. Gestión de inventario
+El 66% de los entrevistados (2 de 3) presenta un bajo nivel de digitalización, debido a que gestionan inventarios, ventas y cobranzas principalmente mediante cuadernos físicos y registros manuales.
 
-El 100% de los entrevistados realiza control de inventario, pero con diferencias:
-El 66%: control manual (cuadernos, conteo visual, duplicación de registros).
-33%: control mixto (Excel + registros físicos + guías de remisión).
-Esto indica que el control existe, pero no está optimizado ni centralizado digitalmente.
+Por otro lado, el 33% restante utiliza herramientas digitales básicas como Microsoft Excel complementadas con documentos físicos y guías de remisión.
 
-3. Detección de fugas y seguridad
+Esto evidencia que, aunque existe una adopción parcial de tecnología, los procesos críticos del negocio aún no se encuentran centralizados y automatizados completamente.
 
-El 100% utiliza métodos tradicionales, como:
-Usar agua con jabón para detectar la fuga con precisión
-e inspección manual
+---
 
-4. Canales de interacción con clientes
+## Gestión de inventario
 
-El 100% de los entrevistados utiliza canales tradicionales digitales básicos,
-llamadas telefónicas y
-WhatsApp.
-Esto demuestra que, incluso en empresas grandes, la relación con el cliente sigue siendo directa y poco automatizada.
+El 100% de los entrevistados realiza control de inventario, aunque utilizando métodos distintos:
 
-5. Tecnología y dispositivos
+- 66% realiza controles manuales mediante conteos visuales, cuadernos y duplicación de registros.
+- 33% utiliza un sistema mixto basado en Excel, documentos físicos y registros administrativos.
 
-    - El 100% usa celulares Android (Samsung S25, S26, otros Samsung).
+Se identificó que los procesos actuales generan errores de registro, pérdida de tiempo y dificultades para consultar información histórica de ventas o stock.
 
-    - El 33% utiliza sistemas GPS para monitoreo de transporte (Entrevista 2).
+---
 
-    - El 33% utiliza Excel como herramienta principal de gestión.
+## Detección de fugas y seguridad
 
-6. Problemas principales identificados
+El 100% de los entrevistados utiliza métodos tradicionales para detectar fugas de gas, principalmente:
 
-Los problemas más frecuentes son:
+- Agua con jabón
+- Inspección manual
+- Revisión visual y olfativa
 
-- Errores en registros manuales (66%)
+Además, los entrevistados manifestaron preocupación constante por accidentes relacionados con cilindros deteriorados o válvulas defectuosas, debido al riesgo operativo y a la posible pérdida de confianza de los clientes.
 
-- Falta de digitalización completa (100%)
+---
 
-- Riesgos logísticos (robos en transporte, accidentes, fallas mecánicas) (33%)
+## Canales de interacción con clientes
 
-- Dificultad en control de cobranzas o créditos (33%)
+El 100% de los entrevistados utiliza canales de comunicación tradicionales y de fácil acceso:
 
-- Dependencia de procesos manuales que generan estrés operativo (66%)
+- Llamadas telefónicas
+- WhatsApp
 
-7. Modelo de cobranza
+Esto demuestra que la atención al cliente continúa siendo directa y poco automatizada, utilizando principalmente celulares Android como herramienta principal de trabajo diario.
 
-* 33% trabaja con crédito, pero presenta problemas de seguimiento.
+---
 
-* 33% trabaja solo al contado debido a malas experiencias previas.
+## Tecnología y dispositivos utilizados
 
-* 33% no especifica claramente, pero muestra manejo tradicional.
+Respecto al uso tecnológico, se identificó que:
 
-Esto indica que el crédito es limitado y poco sistematizado.
+- El 100% utiliza celulares Android para la coordinación operativa.
+- El 33% utiliza sistemas GPS para monitoreo de transporte.
+- El 33% emplea Microsoft Excel como principal herramienta digital de gestión.
 
-8. Interés en soluciones tecnológicas
+En general, las empresas utilizan tecnología básica enfocada en comunicación y ofimática, sin contar con plataformas integradas especializadas para gestión logística y administrativa.
 
-- El 100% de los entrevistados muestra interés en soluciones digitales, especialmente en:
+---
 
-- Sistemas para registro de ventas, compras y deudas.
+## Problemas principales identificados
 
-- Automatización de procesos.
+Los problemas más frecuentes identificados durante las entrevistas fueron:
 
-- Monitoreo de transporte en tiempo real.
+- Errores en registros manuales
+- Dependencia excesiva de procesos físicos
+- Estrés operativo por duplicación de información
+- Riesgos logísticos y robos durante el transporte
+- Dificultad para controlar créditos y cobranzas
+- Falta de monitoreo centralizado en tiempo real
 
-- Digitalización similar a sistemas usados en otros rubros para apuntar pedidos (ej. restaurantes).
+Asimismo, varios entrevistados manifestaron preocupación por la pérdida de clientes debido al crecimiento del gas natural y por la dificultad de mantener una operación eficiente utilizando únicamente procesos manuales.
 
-**Conclusión del segmento**
+---
 
-El Segmento Objetivo 1 (empresas de gas a gran escala) presenta un nivel mixto de digitalización, donde el 66% aún depende de procesos manuales, mientras que un 33% ha iniciado una transición hacia herramientas digitales básicas.
-Aunque cuentan con mayor estructura organizativa, los problemas siguen centrados en la gestión manual, control de información y eficiencia operativa. Además, existe una clara apertura hacia soluciones tecnológicas, lo que evidencia una oportunidad importante para implementar sistemas digitales integrados que optimicen inventario, ventas, cobranzas y logística en tiempo real.
+## Modelo de cobranza
 
-<br><br>
+Se identificó que:
 
-**Segmento Objetivo 2: Distribuidores de gas (minoristas y puntos de venta)**
+- 33% trabaja con créditos, aunque presenta dificultades de seguimiento.
+- 33% opera únicamente al contado debido a malas experiencias previas.
+- 33% mantiene un modelo tradicional sin procesos digitalizados de cobranza.
 
-De acuerdo a las 3 entrevistas realizadas a los representantes de este segmento objetivo, se identifican patrones comunes tanto en aspectos operativos como en los tecnológicos.
+Esto evidencia que la gestión financiera aún presenta limitaciones y poca trazabilidad.
 
-1. Nivel de digitalización
+---
 
-El 66% de los entrevistados (2 de 3) presenta un bajo nivel de digitalización, ya que gestionan inventario, ventas y registros mediante cuadernos físicos (Roberto Arriola y Edgar Palacios). En contraste, el 33% (1 de 3) utiliza herramientas digitales como Excel y Word (Jesús Felices), aunque complementadas con procesos manuales previos.
-Esto nos dice que la digitalización es limitada y no está completamente implementada.
+## Características objetivas identificadas
 
-2. Gestión de inventario
+- Uso frecuente de celulares Android.
+- Predominio de registros manuales.
+- Uso limitado de herramientas digitales.
+- Dependencia de llamadas y WhatsApp.
+- Gestión administrativa parcialmente estructurada.
+- Operaciones enfocadas en distribución y logística.
 
-El 100% de los entrevistados realizan control de inventario, pero de distinta manera.
-66%: control manual (cuadernos, anotaciones diarias).
-33%: control digital en computadora con apoyo administrativo
+---
 
-3. Detección de fugas y seguridad
+## Características subjetivas identificadas
 
-El 100% utiliza métodos tradicionales para detectar fugas como:
-Agua con jabón o
-Inspección manual. 
-Para solucionar la fuga, recurren a parcharlos y esperar a que les cambien los balones defectuosos.
+- Estrés operativo generado por procesos manuales.
+- Preocupación por pérdidas económicas y robos.
+- Temor a accidentes relacionados con fugas.
+- Interés en herramientas tecnológicas simples y accesibles.
+- Necesidad de mayor control y monitoreo operativo.
+- Interés en reducir errores humanos y tiempos de gestión.
 
-4. Canales de interacción con clientes
+---
 
-El 100% de los entrevistados utiliza estos canales,
-llamadas telefónicas y
-WhatsApp.
-Esto nos evidencia que los celulares Android son el principal medio de operación, siendo clave para pedidos y comunicaciones.
+## Key Insights
 
-5. Tecnología y dispositivos
+- Los usuarios muestran apertura hacia la digitalización, pero prefieren herramientas simples y fáciles de implementar.
+- El principal problema no es únicamente el inventario, sino la falta de control operativo centralizado.
+- WhatsApp se ha convertido en una herramienta operativa informal clave dentro del negocio.
+- Existe interés en monitoreo logístico y automatización, especialmente para reducir errores y mejorar la trazabilidad.
+- La seguridad y la confianza del cliente son factores prioritarios para las empresas entrevistadas.
 
-- El 100% usa celulares Android para gestión operativa.
-- El 66% usa herramientas digitales básicas (Excel o registros indirectos).
-- El 33% cuenta con monitoreo más estructurado desde computadora.
+---
 
- En general, la tecnología utilizada es básica (ofimática y comunicación), sin sistemas integrados especializados.
+## Relación con los User Persona
 
-6. Problemas principales identificados
+A partir de este segmento se identificaron perfiles potenciales para la construcción de User Persona, tales como:
 
-Los más frecuentes:
+- Administrador operativo tradicional
+- Supervisor logístico
+- Encargado de distribución y monitoreo
 
-- Tráfico y retrasos en entregas.
+---
 
-- Direcciones imprecisas y dificultades logísticas.
+## Oportunidades identificadas
 
-- Falta de monitoreo en tiempo real.
+A partir de las entrevistas se identificaron oportunidades para implementar funcionalidades como:
 
-- Errores o limitaciones en registros manuales.
+- Control digital de inventario
+- Registro automatizado de ventas y cobranzas
+- Monitoreo GPS en tiempo real
+- Gestión centralizada de clientes
+- Alertas relacionadas con seguridad y fugas
+- Dashboard administrativo para supervisión operativa
 
-7. Modelo de cobranza
+---
 
-- El 66% limita lo que es a crédito.
+## Conclusión del segmento
 
-- El 33% restante lo maneja con un seguimiento estructurado. 
+El Segmento Objetivo 1 presenta un nivel mixto de digitalización, donde la mayoría de empresas aún depende de procesos manuales complementados parcialmente con herramientas digitales básicas. Aunque cuentan con mayor estructura organizativa, persisten problemas relacionados con control operativo, logística y administración de información.
 
-8. Interés en soluciones tecnológicas
+Además, se evidenció una clara apertura hacia soluciones tecnológicas accesibles que permitan mejorar la eficiencia operativa, reducir errores manuales y optimizar el monitoreo de inventario, transporte y cobranzas en tiempo real.
 
-El 100% de los entrevistados muestra interés en soluciones digitales, principalmente en:
+---
 
-- Geolocalización de repartidores.
+## Resumen estadístico del segmento
 
-- Control de inventario en tiempo real.
+| Aspecto evaluado | Resultado |
+|---|---|
+| Uso de celulares Android | 100% |
+| Uso de llamadas telefónicas | 100% |
+| Uso de WhatsApp | 100% |
+| Uso de registros manuales | 66% |
+| Uso de Microsoft Excel | 33% |
+| Uso de monitoreo GPS | 33% |
+| Uso de métodos tradicionales para detección de fugas | 100% |
+| Empresas con dificultades en cobranzas | 66% |
+| Empresas preocupadas por riesgos operativos y robos | 100% |
+| Empresas interesadas en digitalización | 100% |
+| Empresas con dificultades para monitoreo centralizado | 100% |
+| Empresas que presentan estrés operativo por duplicidad de procesos | 66% |
 
-- Registro digital de ventas y clientes.
+---
 
-Sin embargo, existen limitaciones como costos y falta de conocimiento técnico. 
+## Patrones predominantes identificados
 
-En conclusión, el Segmento Objetivo 2 (distribuidores de gas de pequeña y mediana escala) presenta una alta dependencia de procesos manuales (66%) y un uso básico de tecnología centrado en celulares (100%). Los principales problemas se concentran en la logística, control de inventario y monitoreo en tiempo real, lo que evidencia una clara oportunidad para implementar soluciones digitales accesibles.
+| Patrón identificado | Frecuencia | Impacto |
+|---|---|---|
+| Dependencia de procesos manuales | Alta | Genera errores administrativos y pérdida de tiempo |
+| Uso intensivo de WhatsApp como canal operativo | Alta | Centraliza pedidos y coordinación diaria |
+| Bajo nivel de automatización | Media-Alta | Limita el monitoreo y control operativo |
+| Preocupación por fugas y seguridad | Alta | Influye en la confianza del cliente |
+| Necesidad de trazabilidad logística | Alta | Justifica monitoreo y seguimiento de entregas |
+| Dificultad en gestión de cobranzas | Media | Afecta organización financiera |
+| Interés en herramientas simples y centralizadas | Alta | Impacta el diseño UX de la solución |
 
+---
 
+# Segmento Objetivo 2: Distribuidores de gas (minoristas y puntos de venta)
+
+De acuerdo con las 3 entrevistas realizadas a distribuidores independientes y representantes de puntos de venta de gas, se identificaron patrones comunes relacionados con el bajo nivel de digitalización, dependencia de procesos manuales y dificultades logísticas durante la operación diaria.
+
+---
+
+## Nivel de digitalización
+
+El 66% de los entrevistados presenta un nivel bajo de digitalización, ya que gestiona inventario, ventas y registros mediante cuadernos físicos y anotaciones manuales.
+
+En contraste, el 33% utiliza herramientas digitales básicas como Microsoft Excel y Word, aunque aún complementadas con procesos manuales.
+
+Esto demuestra que la digitalización dentro del segmento continúa siendo limitada y poco integrada.
+
+---
+
+## Gestión de inventario
+
+El 100% de los entrevistados realiza control de inventario, aunque mediante métodos distintos:
+
+- 66% utiliza controles manuales mediante cuadernos y anotaciones diarias.
+- 33% realiza control digital básico desde computadora con apoyo administrativo.
+
+Los entrevistados señalaron que los registros manuales generan pérdida de tiempo, errores frecuentes y dificultades para consultar información histórica.
+
+---
+
+## Detección de fugas y seguridad
+
+El 100% utiliza métodos tradicionales para detectar fugas, principalmente:
+
+- Agua con jabón
+- Inspección manual
+
+Asimismo, indicaron que los balones defectuosos suelen ser separados y enviados nuevamente al proveedor o distribuidor principal.
+
+Los entrevistados mostraron preocupación por posibles accidentes relacionados con fugas y por la pérdida de confianza de los clientes frente a incidentes de seguridad.
+
+---
+
+## Canales de interacción con clientes
+
+El 100% utiliza:
+
+- Llamadas telefónicas
+- WhatsApp
+
+Esto evidencia que los celulares Android representan la principal herramienta de trabajo para coordinar pedidos, entregas y comunicación con clientes.
+
+---
+
+## Tecnología y dispositivos utilizados
+
+Se identificó que:
+
+- El 100% utiliza celulares Android para la operación diaria.
+- El 66% utiliza herramientas digitales básicas como Excel.
+- El 33% cuenta con una gestión más estructurada desde computadora.
+
+En general, la tecnología utilizada se limita a herramientas básicas de comunicación y ofimática, sin plataformas especializadas integradas.
+
+---
+
+## Problemas principales identificados
+
+Los principales problemas identificados fueron:
+
+- Tráfico y retrasos en entregas
+- Direcciones imprecisas
+- Falta de monitoreo en tiempo real
+- Errores en registros manuales
+- Dificultad para controlar ventas y cobranzas
+- Estrés operativo por exceso de tareas manuales
+
+Además, algunos entrevistados manifestaron desconfianza hacia repartidores tercerizados y preocupación por perder clientes frente a otras alternativas energéticas.
+
+---
+
+## Modelo de cobranza
+
+Se identificó que:
+
+- El 66% limita el crédito únicamente a clientes de confianza.
+- El 33% maneja seguimiento más estructurado de cobranzas.
+
+Esto evidencia que la gestión de créditos aún depende principalmente de confianza y registros manuales.
+
+---
+
+## Características objetivas identificadas
+
+- Uso generalizado de celulares Android.
+- Dependencia de llamadas y WhatsApp.
+- Uso frecuente de cuadernos físicos.
+- Bajo nivel de automatización.
+- Operaciones enfocadas en reparto y atención directa.
+
+---
+
+## Características subjetivas identificadas
+
+- Estrés por retrasos y desorganización operativa.
+- Temor a perder clientes.
+- Desconfianza hacia terceros encargados de entregas.
+- Interés en herramientas simples y económicas.
+- Necesidad de mayor control sobre repartidores y ventas.
+
+---
+
+## Key Insights
+
+- Los usuarios no rechazan la tecnología; rechazan herramientas complejas.
+- WhatsApp se ha convertido en el centro operativo informal del negocio.
+- El principal dolor no es únicamente el inventario, sino la pérdida de control operativo.
+- Existe interés en la geolocalización debido a problemas de confianza y retrasos.
+- Los usuarios priorizan simplicidad antes que automatización avanzada.
+
+---
+
+## Relación con los User Persona
+
+A partir de este segmento se identificaron perfiles potenciales para User Persona como:
+
+- Distribuidor independiente
+- Microempresario tradicional
+- Repartidor multifuncional
+
+---
+
+## Oportunidades identificadas
+
+A partir de las entrevistas se identificaron oportunidades para implementar funcionalidades como:
+
+- Geolocalización de repartidores
+- Control digital de inventario
+- Registro de ventas y clientes
+- Historial de cobranzas
+- Monitoreo de entregas en tiempo real
+- Dashboard administrativo simplificado
+
+---
+
+## Resumen estadístico del segmento
+
+| Aspecto evaluado | Resultado |
+|---|---|
+| Uso de celulares Android | 100% |
+| Uso de llamadas telefónicas | 100% |
+| Uso de WhatsApp | 100% |
+| Uso de registros manuales | 66% |
+| Uso de Microsoft Excel | 66% |
+| Uso de computadora para gestión administrativa | 33% |
+| Uso de métodos tradicionales para detección de fugas | 100% |
+| Distribuidores con problemas logísticos y retrasos | 100% |
+| Distribuidores con dificultades en cobranzas | 66% |
+| Distribuidores interesados en monitoreo de repartidores | 100% |
+| Distribuidores interesados en herramientas simples | 100% |
+| Distribuidores con estrés operativo | 100% |
+
+---
+
+## Patrones predominantes identificados
+
+| Patrón identificado | Frecuencia | Impacto |
+|---|---|---|
+| Dependencia de procesos manuales | Alta | Genera desorganización y errores frecuentes |
+| Uso intensivo de WhatsApp | Alta | Se convierte en principal herramienta operativa |
+| Problemas de logística y tráfico | Alta | Afecta tiempos de entrega |
+| Necesidad de monitoreo de repartidores | Alta | Relacionado con confianza y control |
+| Bajo nivel de automatización | Alta | Reduce eficiencia operativa |
+| Estrés operativo por exceso de tareas manuales | Alta | Impacta productividad diaria |
+| Interés en soluciones simples y económicas | Alta | Condiciona aceptación de la plataforma |
+| Dificultad para controlar créditos y cobranzas | Media | Genera problemas financieros y seguimiento limitado |
+
+---
+
+## Conclusión del segmento
+
+El Segmento Objetivo 2 presenta una alta dependencia de procesos manuales y un uso básico de tecnología centrado principalmente en celulares Android y herramientas de comunicación. Los principales problemas se concentran en la logística, control de inventario y monitoreo operativo.
+
+Las entrevistas evidencian una clara oportunidad para implementar soluciones digitales accesibles, simples y centralizadas que permitan mejorar la organización del negocio, reducir errores manuales y optimizar la supervisión de entregas y ventas en tiempo real.
+
+---
+
+## Resumen final de patrones
+
+| Patrón identificado | Frecuencia | Impacto |
+|---|---|---|
+| Dependencia de WhatsApp | Alta | Comunicación operativa |
+| Uso de procesos manuales | Alta | Genera errores y retrasos |
+| Interés en soluciones simples | Alta | Influye en diseño UX |
+| Problemas de monitoreo | Media-Alta | Justifica geolocalización |
+| Estrés operativo | Alta | Impacta eficiencia |

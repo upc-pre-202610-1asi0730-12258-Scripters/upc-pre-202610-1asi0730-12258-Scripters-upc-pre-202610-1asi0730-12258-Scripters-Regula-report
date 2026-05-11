@@ -55,12 +55,119 @@ Esta etapa es fundamental en el desarrollo de nuestro sistema, ya que permite id
 | **Oportunidades** | Creciente necesidad de digitalización en el sector, baja adopción tecnológica en distribuidores y demanda por mejorar seguridad y control operativo. | Creciente necesidad de digitalización en el sector, baja adopción tecnológica en distribuidores y demanda por mejorar seguridad y control operativo. | Mayor interés en eficiencia energética y control de consumo tanto en hogares como en industrias. | Crecimiento de grandes empresas energéticas que requieren soluciones avanzadas para optimizar sus operaciones a gran escala. |
 | **Amenazas** | Competencia de soluciones tecnológicas ya posicionadas, resistencia al cambio por parte de usuarios tradicionales y posibles limitaciones en adopción por presupuesto. | Alta competencia en el mercado IoT y barreras de adopción por costos iniciales o complejidad técnica. | Saturación de soluciones similares enfocadas en consumo y dificultad para diferenciarse en el mercado. | Dependencia de grandes clientes y competencia de soluciones más accesibles que pueden captar segmentos más pequeños del mercado. |
 
-### **2.1.2. Estrategias y tácticas frente a competidores**
 
-- **Plan SaaS accesible:** Ofreceremos una suscripción mensual económica con funciones esenciales de gestión (inventario, distribución y cobranzas), mucho más accesible que soluciones basadas en hardware costoso o implementaciones industriales complejas.
+## Estrategias y tácticas preliminares frente a la competencia
 
-- **Capacitación y contenido educativo:** Brindaremos guías, tutoriales y capacitaciones sobre gestión de inventario, control de distribución y seguridad en almacenes, posicionando a Regula como una solución práctica y fácil de adoptar frente a sistemas más técnicos.
+Para definir las estrategias y tácticas preliminares de Regula frente a la competencia, se toma como base el análisis competitivo realizado, considerando las fortalezas y debilidades de cada competidor, así como las oportunidades del mercado y las amenazas presentes en el sector de distribución y monitoreo de gas GLP.
 
-- **Funciones diferenciadoras:** Incorporaremos alertas en tiempo real sobre fugas de gas en almacenes, control de deudas por cliente y seguimiento de rutas de distribución, ofreciendo una solución más completa frente a plataformas enfocadas solo en monitoreo o consumo.
+---
 
-- **Planes escalables:** Ofreceremos distintos niveles de suscripción según el tamaño del negocio, permitiendo a distribuidores y empresas crecer en funcionalidades sin necesidad de realizar grandes inversiones iniciales.
+## Estrategias para afrontar las fortalezas de los competidores
+
+### Frente a IoT Smart Gas Platform
+
+La principal fortaleza de IoT Smart Gas Platform es el monitoreo en tiempo real mediante sensores IoT y la optimización del abastecimiento de gas. Frente a ello, Regula aplica una estrategia de diferenciación funcional integral.
+
+Mientras IoT Smart Gas se enfoca principalmente en el consumo y suministro de gas, Regula incorpora además gestión de inventario, distribución, cobranzas y monitoreo ambiental de seguridad en almacenes dentro de una sola plataforma.
+
+**Táctica:**  
+Posicionar a Regula como una solución completa para empresas distribuidoras y envasadoras, resaltando que no solo monitorea el gas, sino que también optimiza toda la operación del negocio.
+
+### Frente a GasSense
+
+GasSense tiene como principal fortaleza el análisis predictivo del consumo y las alertas inteligentes para usuarios domésticos e industriales. Frente a ello, Regula aplica una estrategia de especialización orientada al sector empresarial B2B.
+
+GasSense está enfocado principalmente en el control del consumo de gas, mientras que Regula cubre necesidades operativas críticas de distribuidores y empresas envasadoras.
+
+**Táctica:**  
+Destacar que la plataforma fue diseñada específicamente para resolver problemas de logística, control de inventario, cobranzas y seguridad operativa, aspectos que GasSense no aborda de forma integral.
+
+### Frente a .one Meter
+
+La principal ventaja competitiva de .one Meter es la gestión de grandes volúmenes de activos mediante IoT y RFID con trazabilidad corporativa. Frente a ello, Regula aplica una estrategia de accesibilidad y enfoque en PYMES.
+
+Aunque .one Meter ofrece soluciones avanzadas para grandes compañías, su complejidad y costos dificultan su adopción en distribuidores pequeños y medianos.
+
+**Táctica:**  
+Posicionar a Regula como una alternativa moderna, sencilla y accesible económicamente, permitiendo que empresas con menor capacidad de inversión puedan digitalizar sus operaciones sin requerir infraestructuras complejas.
+
+---
+
+## Estrategias para aprovechar las debilidades de los competidores
+
+### Debilidad de IoT Smart Gas Platform
+
+Su enfoque está limitado principalmente al monitoreo del gas y depende considerablemente de hardware especializado, lo que incrementa costos de implementación.
+
+Regula aprovecha esta debilidad ofreciendo una plataforma centrada también en procesos administrativos y operativos del negocio, reduciendo la dependencia exclusiva del monitoreo físico.
+
+**Táctica:**  
+Enfatizar el ahorro operativo y la facilidad de implementación mediante una aplicación web accesible desde cualquier dispositivo con internet.
+
+### Debilidad de GasSense
+
+Su propuesta se concentra en el análisis del consumo y no en la gestión integral de operaciones empresariales.
+
+Regula aprovecha esta brecha ofreciendo módulos orientados específicamente al control de distribución, inventario y cobranzas.
+
+**Táctica:**  
+Mostrar casos de uso relacionados con empresas distribuidoras de GLP, evidenciando cómo Regula mejora la eficiencia operativa y reduce problemas administrativos cotidianos.
+
+### Debilidad de .one Meter
+
+Su alto costo y complejidad de implementación dificultan la adopción por parte de pequeñas y medianas empresas.
+
+Regula aprovecha esta debilidad mediante una estrategia de penetración en el segmento pyme, ofreciendo una solución SaaS más flexible y económica.
+
+**Táctica:**  
+Brindar demostraciones gratuitas, pruebas piloto y acompañamiento inicial para facilitar la adopción tecnológica por parte de distribuidores tradicionales.
+
+---
+
+## Estrategias para aprovechar las oportunidades del entorno
+
+El sector de distribución de GLP presenta una baja digitalización y todavía depende en gran medida de procesos manuales para el control de inventario, distribución y cobranzas.
+
+Regula aprovecha esta oportunidad mediante una estrategia de transformación digital accesible, enfocándose en empresas que necesitan modernizar sus operaciones sin realizar inversiones elevadas.
+
+**Táctica:**  
+Ofrecer una plataforma intuitiva y fácil de implementar, acompañada de capacitaciones y soporte básico para acelerar la adopción.
+
+Asimismo, existe una creciente preocupación por la seguridad en almacenes y operaciones relacionadas con gas GLP, especialmente en empresas que aún no cuentan con sistemas de monitoreo ambiental.
+
+Regula aprovecha esta oportunidad integrando sensores ambientales y alertas en tiempo real dentro de su propuesta de valor.
+
+**Táctica:**  
+Comunicar la importancia de la prevención de fugas y riesgos operativos como un beneficio diferencial frente a otras soluciones centradas únicamente en consumo o logística.
+
+Otra oportunidad importante es el incremento del interés por soluciones IoT y plataformas inteligentes en el sector energético.
+
+Regula aprovecha este contexto posicionándose como una startup innovadora que integra monitoreo y gestión operativa en una única solución.
+
+**Táctica:**  
+Fortalecer la presencia digital mediante landing pages, redes sociales y demostraciones enfocadas en mostrar beneficios reales para distribuidores y empresas envasadoras.
+
+---
+
+## Estrategias para mitigar las amenazas del entorno
+
+Una de las principales amenazas identificadas es la presencia de empresas tecnológicas ya posicionadas en el mercado IoT y energético, las cuales cuentan con mayor reconocimiento y experiencia.
+
+Para mitigar esta amenaza, Regula aplica una estrategia de diferenciación basada en cercanía con el cliente y adaptación a necesidades reales del sector GLP.
+
+**Táctica:**  
+Mantener comunicación constante con los primeros clientes para incorporar mejoras continuas al sistema según sus problemas operativos reales.
+
+Otra amenaza importante es la resistencia al cambio y la baja adopción tecnológica por parte de distribuidores tradicionales que aún trabajan con métodos manuales.
+
+Regula enfrenta esta situación mediante una estrategia de simplificación de uso y acompañamiento inicial.
+
+**Táctica:**  
+Ofrecer capacitaciones, soporte básico y una interfaz intuitiva que reduzca la dificultad de transición hacia procesos digitalizados.
+
+Finalmente, existe la amenaza de que nuevas soluciones tecnológicas más económicas ingresen al mercado y compitan directamente con Regula.
+
+Para reducir este riesgo, la startup aplica una estrategia de fidelización temprana, buscando construir relaciones sólidas con sus primeros clientes.
+
+**Táctica:**  
+Proporcionar atención personalizada, actualizaciones frecuentes y mejoras constantes que generen confianza y dependencia positiva hacia la plataforma.
