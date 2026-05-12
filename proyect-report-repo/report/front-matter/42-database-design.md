@@ -11,7 +11,5 @@
 ![Class4.png](../assets/images/Class4.png)
 
 ## 4.8. Database Design.
-
 ## 4.8.1. Database Diagrams.
 
-## 5.1. Software Configuration Management.

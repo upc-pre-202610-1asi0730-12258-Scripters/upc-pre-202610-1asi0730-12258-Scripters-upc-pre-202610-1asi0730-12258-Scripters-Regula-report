@@ -12,18 +12,18 @@ Los wireframes para este segmento están diseñados considerando usuarios como s
 
 * **Gestión de inventario:**
   Vista tipo tabla con listado de balones.
-  Acciones rápidas: *Registrar entrada*, *Registrar salida*, *Filtrar*.
-
-* **Panel de alertas:**
-  Lista de alertas clasificadas por prioridad.
-  Botón principal: *“Atender alerta”*.
-
-* **Seguimiento operativo:**
-  Vista de monitoreo de sensores y estado de almacén.
-
-* **Reportes:**
-  Historial filtrable por fechas y tipo de evento.
-
+  Acciones rápidas: *Registrar entrada*, *Registrar salida*, *Filtrar*.   
+  
+* **Panel de alertas:**   
+  Lista de alertas clasificadas por prioridad.  
+  Botón principal: *“Atender alerta”*.  
+  
+* **Seguimiento operativo:**  
+  Vista de monitoreo de sensores y estado de almacén.   
+  
+* **Reportes:**   
+  Historial filtrable por fechas y tipo de evento.  
+  
 ---
 
 ### Características de los wireframes
@@ -98,19 +98,14 @@ Estos wireframes buscan garantizar una experiencia clara, rápida y enfocada en 
 ![Distribuidores-wireframe26.png](../assets/wireframes/Distribuidores-wireframe26.png)
 
 ### 4.4.2. Web Applications Wireflows.
-#### Segmento: Empresas de gas
 
-![Wireflow-empresas.png](../assets/images/Wireflow-empresas.png)
-
-#### Segmento: Distribuidores de gas
-
-
-![Wireflow-empresas.png](../assets/images/Wireflow-empresas.png)
-
+![Wireflow.png](../assets/images/Wireflow.png)
 https://lucid.app/lucidchart/36941ee2-c511-4d75-84d0-cb4f7b46c654/edit?viewport_loc=-11374%2C774%2C11877%2C6066%2C0_0&invitationId=inv_49f2cda5-2dfc-4742-8b7f-2a14653cd1d8
+<br>
+<br>
+https://lucid.app/lucidchart/c4739cbb-7f26-48d2-9cba-473b29620e93/edit?viewport_loc=-18807%2C-1983%2C18871%2C11499%2C0_0&invitationId=inv_d92080b0-8dc3-41d6-8c4f-2813e5dc9069
 
-
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 #### Segmento: Empresa de gas
 ![empresas-mockups.png](../assets/mock-ups/empresas-mockups.png)
 ![empresas-mockups2.png](../assets/mock-ups/empresas-mockups2.png)
@@ -161,3 +156,10 @@ https://lucid.app/lucidchart/36941ee2-c511-4d75-84d0-cb4f7b46c654/edit?viewport_
 ![distribuidoras-mockups19.png](../assets/mock-ups/distribuidoras-mockups19.png)
 ![distribuidoras-mockups20.png](../assets/mock-ups/distribuidoras-mockups20.png)
 ![distribuidoras-mockups21.png](../assets/mock-ups/distribuidoras-mockups21.png)
+
+
+## 4.4.3. Web Applications User Flow Diagrams.
+### Segmento: Distribuidores
+![user-flow-distribuidor.png](../assets/images/user-flow-distribuidor.png)
+### Segmento: Empresas de gas
+![user-flow-empresas.png](../assets/images/user-flow-empresas.png)

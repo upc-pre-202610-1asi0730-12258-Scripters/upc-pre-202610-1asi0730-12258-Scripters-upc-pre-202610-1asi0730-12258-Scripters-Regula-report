@@ -169,10 +169,57 @@ El Sprint 1 marca el inicio del trabajo de construcción dentro del enfoque ági
 
 ---
 
-## 5.2.1.1. Sprint Planning 1
+## 5.2.1. 1. Sprint Planning 1
 
-### Sprint #
-**Sprint 1**
+# Sprint #1
+
+## Sprint Planning Background
+
+| Field | Details |
+|---|---|
+| **Date** | 2026-04-18 |
+| **Time** | 11:00 PM |
+| **Location** | Microsoft Teams (Virtual) |
+| **Prepared By** | Ramos Cerdan Elias Daniel |
+| **Attendees (to planning meeting)** | Tello Palacios, Fabrizio Rafael / Espinoza Lopez, Paul Alexandro Angel / Ramos Cerdan, Elias Daniel / Lopez Torres, Leonardo Gabriel / Lopez Montalvo, Kevin Edu |
+
+---
+
+## Sprint n – 1 Review Summary
+
+Se lograron varios de los objetivos planteados para el producto, como el desarrollo de todos los capítulos del informe, el despliegue completo del Landing Page y la incorporación de la mayor parte de la información requerida en el reporte.
+
+No obstante, una de las metas más importantes que también debía cumplirse fue la entrega del informe en formatos PDF y Word.
+
+---
+
+## Sprint n – 1 Retrospective Summary
+
+El Sprint 1 fue eficiente y al mismo tiempo no, se avanzó el trabajo y se completó; sin embargo, requirió mejoras y correcciones a último momento.
+
+El team leader mencionó los siguientes puntos de mejora:
+
+> “Más compromiso por parte de todo el equipo, reuniones diarias para llevar un hilo de cómo va avanzando todo y más comunicación entre los integrantes del equipo.”
+
+---
+
+## Sprint Goal & User Stories
+
+### Sprint n Goal
+
+Nuestro enfoque está en lograr la primera versión funcional y desplegada del Landing Page, junto con la primera versión completa del informe correspondiente a la entrega AV1.
+
+Creemos que esto aporta una primera presentación clara, accesible y funcional de la propuesta de valor del proyecto para los visitantes y stakeholders.
+
+Esto se confirmará cuando el Landing Page esté publicado y accesible sin problemas, sus secciones principales puedan recorrerse correctamente y el informe esté finalizado en el formato requerido.
+
+---
+
+## Sprint n Velocity
+
+| Metric | Value |
+|---|---|
+| **Sum of Story Points** | TBD |
 
 ---
 
